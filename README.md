@@ -5,6 +5,8 @@
 
 # Luvy RAT
 ## Lucy RAT V5 Full Version In Cheap Price Lifetime – License
+ [![https://t.me/LuckyCypherRAT](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/LuckyCypherRAT)
+[![https://telegram.me/luckysingh24](https://img.shields.io/badge/Telegram-@luckysingh24-blue.svg?style=flat-square)](https://telegram.me/luckysingh24)
 
 <div align="left">
 
@@ -91,5 +93,6 @@ Phone Info
   - Clean APK FUD Crypted
    - Run Automatically After Restart Phone 
    - Bypass Bank App Screen 
-
-
+## Test vidio join Teligram
+ [![https://t.me/LuckyCypherRAT](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/LuckyCypherRAT)
+[![https://telegram.me/luckysingh24](https://img.shields.io/badge/Telegram-@luckysingh24-blue.svg?style=flat-square)](https://telegram.me/luckysingh24)
