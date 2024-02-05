@@ -24,10 +24,16 @@ Hack any operating system send PDF exploit
 [Demo Video]: https://telegram.me/+ZkZ0naTurGliM2Qx
 
 
+ <h2 align="center">🔗 Help / Contact and Social Media Accounts</h2>
+  <p align="center">
+<a href="https://m.youtube.com/channel/UCxuyWS7wdHw6hq05b75hmZg/videos">
+      <img src="https://img.shields.io/badge/CONTACT-GMAIL-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
+    </a>
+<a href="https://telegram.me/ampleadminrat">
+      <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+    </a>
 
 
-## Email
-benrav007@gmail.ccom
 ## PDF RAT Features:
 - Remote Desktop
 - File manager
