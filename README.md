@@ -33,7 +33,8 @@ Hack any operating system send PDF exploit
 <a href="https://telegram.me/ampleadminrat">
       <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
     </a>
-       [![General badge](https://img.shields.io/badge/<Gmail>-<STATUS>-<red>gmail.svg)](prorat370@gmail.com)
+    
+  [![General badge](https://img.shields.io/badge/<Gmail>-<Mail_us>-<red>gmail.svg)](prorat370@gmail.com)
          
 
 
