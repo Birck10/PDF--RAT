@@ -34,7 +34,9 @@ Hack any operating system send PDF exploit
       <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
     </a>
     
-  [![General badge](https://img.shields.io/badge/<Gmail>-<Mail_us>-<red>gmail.svg)](prorat370@gmail.com)
+## Gmail
+
+Mail us, email prorat370@gmail.com 
          
 
 
