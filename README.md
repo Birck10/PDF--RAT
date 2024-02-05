@@ -13,7 +13,9 @@ Hack any operating system send PDF exploit
    [Download](https://telegram.me/ampleadminrat)
 |:------------- |
 
-  https://zennashop.com/product/pdf-rat-hvnc/
+  #   [BUY HERE FROM WEBSITE]
+
+[BUY HERE FROM WEBSITE]: https://ratshop.org/product/pdf-rat-hvnc/
   
 
 
