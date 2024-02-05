@@ -26,7 +26,7 @@ Hack any operating system send PDF exploit
 
  <h2 align="center">🔗 Help / Contact and Social Media Accounts</h2>
   <p align="center">
-<a href="https://m.youtube.com/channel/UCxuyWS7wdHw6hq05b75hmZg/videos">
+<a href="prorat370@gmail.com">
       <img src="https://img.shields.io/badge/CONTACT-GMAIL-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
     </a>
 <a href="https://telegram.me/ampleadminrat">
