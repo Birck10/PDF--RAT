@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src='https://zennashop.com/wp-content/uploads/2022/11/1.png' style="height:150px;width:150px;" >
 
@@ -32,6 +33,9 @@ Hack any operating system send PDF exploit
 <a href="https://telegram.me/ampleadminrat">
       <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
     </a>
+       [![General badge](https://img.shields.io/badge/<Gmail>-<STATUS>-<red>gmail.svg)](prorat370@gmail.com)
+         
+
 
 
 ## PDF RAT Features:
