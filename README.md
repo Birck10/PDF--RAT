@@ -15,7 +15,7 @@ Hack any operating system send PDF exploit
 
   https://zennashop.com/product/pdf-rat-hvnc/
   
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6ba226017e2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 
   
 
@@ -109,6 +109,9 @@ benrav007@gmail.ccom
 ## Requirement
 1 Domain or hosting
 (IF you buy 1 domain or 1 year hosting Free)
+
+ ## if you want free donate us
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Zenna)
 
 ## Note:-Disclaimer:
 Any actions and or activities related to the material contained within this Course is solely your responsibility.The misuse of the information in this Course can result in criminal charges brought against the persons in question. The authors and Course Tutorials will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this Course to break the law.
